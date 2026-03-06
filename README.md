@@ -1,7 +1,5 @@
 # Welcome to the "Mountain Universe" project!
 
-The integration of this project is complete. Direct link : https://lumease.github.io/mountainuniverse/
-
 ## Description
 
 This project is part of the "Mastering Front-End" course and will allow you to have a fully customizable showcase website once completed.
@@ -56,12 +54,9 @@ Lumease - 2025
 
 # Bienvenue sur le projet "Mountain universe" !
 
-L'intégration de ce projet est terminée. Voici le lien direct : https://lumease.github.io/mountainuniverse/
-
 ## Description
 
-Ce projet est effectué dans le cadre de la formation "Mastering Front-End" et vous permet de bénéficier, une fois terminé, d'un site vitrine entièrement personnalisable.
-
+Ce projet est effectué dans le cadre de la formation "Mastering Front-End".
 ## Modifications et publication du modèle
 
 Vous êtes débutants et vous souhaitez avoir ce modèle ?
