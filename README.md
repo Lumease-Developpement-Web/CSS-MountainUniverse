@@ -48,7 +48,7 @@ Then:
 
 ## Author
 
-Lumease - 2025
+Lumease - 2026
 
 --
 
@@ -101,4 +101,4 @@ Puis :
 
 ## Auteur
 
-Lumease - 2025
+Lumease - 2026
